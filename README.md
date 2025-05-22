@@ -36,8 +36,15 @@
 
 ---
 
-### ⚡ Cool Animations for Vibes:
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
-</p>
+### ⚡  Animations:
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/1ik3l6SZo1xH1T0y8l/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
+
