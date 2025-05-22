@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools I Use:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,django,mysql,mongodb,git,postman,cpp,c,vue,opencv,pandas,seaborn,firebase,figma,linux,vscode,netlify,heroku,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,django,mysql,mongodb,git,postman,cpp,c,vue,opencv,pandas,seaborn,firebase,figma,linux,vscode" />
 </div>
 
 <p align="left">
@@ -30,20 +30,9 @@
 
 ---
 
-### ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik0049&show_icons=true&theme=radical" alt="Pratik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratik0049&theme=radical&hide_border=false" />
-</p>
 
 ---
 
-### 🎯 Fun Facts About Me:
-- 🎧 Love mixing **lofi beats** with productivity
-- 🧠 I brainstorm crazy **startup ideas** at midnight 🌙
-- ⚡ My code runs on ☕ and curiosity
-- 💬 Ask me anything about Java, Spring Boot, AI APIs, or Full Stack
 
 ---
 
