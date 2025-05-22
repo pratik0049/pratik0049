@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pratik Jadhav 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Tech Explorer from India </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+and+ML+Explorer;Lifelong+Learner+%F0%9F%93%9A;Open+Source+Contributor" alt="Typing SVG" />
