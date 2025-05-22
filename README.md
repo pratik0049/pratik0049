@@ -21,7 +21,7 @@
 ### 🛠️ Languages & Tools I Use:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,django,mysql,mongodb,git,postman,cpp,c,vue,opencv,pandas,seaborn,firebase,figma,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i= n8n,java,spring,react,js,html,css,python,django,mysql,mongodb,git,postman,cpp,c,opencv,pandas,seaborn,linux,vscode,spring boot" />
 </div>
 
 <p align="left">
